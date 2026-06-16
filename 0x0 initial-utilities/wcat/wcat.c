@@ -19,14 +19,3 @@ int main(int argc, char *argv[]){
     }
     return 0;
 }
-
-// 1. how to deal with flags?
-// cat file name
-
-// 1. open/fopen
-// 2. read/fgets
-// 3. write/fprintf
-// 4. close/fclose
-
-
-
